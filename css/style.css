@@ -1,0 +1,21 @@
+.rocketBox{
+    background-color: #241d1d;
+}
+.rocketHead{
+    fill: #cd5c5b ;
+}
+.rocketBody{
+    fill: #d3d3d3;
+}
+.rocketRim{
+    fill: #993e3d;
+}
+.rocketWindow{
+    fill: #aed9e6;
+}
+.rocketFlameRim{
+    fill: #c83738 ;
+}
+.rocketFlameCore{
+    fill: #fa9955;
+}
